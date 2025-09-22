@@ -19,7 +19,7 @@ This Streamlit application enables simulation and optimization of short trading 
      streamlit run short_strategy_simulation_streamlit.py
      ```
    - The app will launch in your browser at `http://localhost:8501`.
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://short-strategy-simulation.streamlit.app/)
+or [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://short-strategy-simulation.streamlit.app/)
 
 ## Input Data Format
 The app expects a CSV file with historical data in the following format:
