@@ -1055,8 +1055,8 @@ st.sidebar.markdown("---")
 st.sidebar.header("ℹ️ Інформація")
 st.sidebar.write("""
 **Версія:** 1.0  
-**Автор:** Crypto Trading Analyst  
-**Оновлено:** 2024
+**Автор:** Roman Kolehov  
+**Створено:** 2025
 
 **Можливості:**
 - Оптимізація параметрів
