@@ -90,6 +90,3 @@ The app supports two modes:
 - Start with optimization to identify optimal parameters.
 - Test strategies on out-of-sample data for real-world validation.
 - Use minute-level data for precise modeling.
-
-## Author
-Crypto Trading Analyst, 2024
