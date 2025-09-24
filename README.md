@@ -34,7 +34,7 @@ The app expects a CSV file with historical data in the following format:
 
 ## User Interface Guide
 ### 1. **Uploading Data**
-- In the sidebar, click **"📁 Data Upload"** and select your CSV file.
+- In the sidebar, click **"📁 Data Upload"** and select your CSV file.(combined_output.csv)
 - Ensure the file adheres to the specified format. Errors will be displayed if the format is incorrect.
 
 ### 2. **Selecting Coins**
